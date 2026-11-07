@@ -3,13 +3,6 @@
 Multi-exchange, real-time orderbook with a Go backend and a React + Vite frontend.
 
 > **Note:** This is an experimental project built quickly for learning and prototyping. Expect rough edges.
-
----
-
-Support the project
-- If you want to support my work, you can sign up to BingX using my referral: https://bingx.com/en/invite/JGNQPF
-- Bingx is one of the Global Top 10 Crypto Exchange. It has low fees and great UX. Also a key sponsor to Chelsea Football Club.
-
 ---
 
 What it is
