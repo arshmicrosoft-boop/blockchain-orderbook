@@ -1,4 +1,4 @@
-# Crypto Orderbook
+# Blockchain Orderbook
 
 Multi-exchange, real-time orderbook with a Go backend and a React + Vite frontend.
 
